@@ -67,4 +67,5 @@ STEP 6: Use zscore of to remove outliers
 
             
 # Result
-          Thus we have read and cleaned the data and  also removed the outliers by detection using IQR and Z-score method.
+          Thus we have read and cleaned the data and  also removed the outliers 
+          by detection using IQR and Z-score method.
